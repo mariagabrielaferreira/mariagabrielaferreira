@@ -1,16 +1,19 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIḶ 🖤
 
-<!--
-**mariagabrielaferreira/mariagabrielaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome è maria gabriela
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou se desenvolvendo na linguagem javiscript
+-ultilizo esse espaço para minha organzaçao e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###VOCê entrar em contato comigo 📧
+
+mariagabiferreira@gmil.com
+ma.riagabriela8387
+
+
+![](https://media.tenor.com/p-d4ZP1JM0UAAAAi/stitch.gif)
+
+
+
+
